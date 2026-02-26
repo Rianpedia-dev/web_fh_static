@@ -283,6 +283,15 @@ export const announcements: Announcement[] = [
         category: "Berita",
         imageUrl: "/uploads/news/1771751838430-Screenshot-2026-02-22-161517.png",
     },
+    {
+        id: 4,
+        title: "Webinar Nasional Hukum Asuransi",
+        excerpt: "Isi lengkap pengumuman tentang tantangan hukum cyber di era artificial intelligence...ttr67r7t7tiuhiohoi",
+        content: "Isi lengkap pengumuman tentang tantangan hukum cyber di era artificial intelligence...ttr67r7t7tiuhiohoi",
+        date: "25 Feb 2026",
+        category: "Akademik",
+        imageUrl: "/uploads/news/Screenshot 2026-02-26 054835.png",
+    },
 ];
 
 // ════════════════════════════════════════════════════════════
