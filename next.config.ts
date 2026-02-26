@@ -5,7 +5,6 @@ const nextConfig: NextConfig = {
     unoptimized: true,
   },
   trailingSlash: false,
-  generateBuildId: async () => "fhunpal-build",
 };
 
 export default nextConfig;
