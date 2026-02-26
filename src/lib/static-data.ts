@@ -189,13 +189,13 @@ export const siteConfig: SiteConfig = {
     university: "Universitas Palembang",
     shortName: "FH UNPAL",
     description: "\"Menjunjung tinggi keadilan, menegakkan hukum, dan membentuk sarjana hukum yang profesional, berintegritas, serta bermanfaat bagi masyarakat.\"",
-    address: "Jl. Dharmapala No.31.A, Bukit Baru, Kec. Ilir Bar. I, Kota Palembang, Sumatera Selatan 30153",
+    address: "Jl. Dharmapala No.31.A, Bukit Baru, Kec. Ilir Bar. I, Kota Palembang, Sumatera Selatan 30139",
     phone: "(0711) 441735",
     email: "unpalfakultashukum@gmail.com",
     socialMedia: {
-        instagram: "https://instagram.com/hukum_unpal",
+        instagram: "https://www.instagram.com/hukum_unpal",
         facebook: "https://facebook.com/fakultas_hukum_unpal",
-        youtube: "https://youtube.com/FakultasHukumUnpal",
+        youtube: "https://www.youtube.com/@FakultasHukumUnpal",
     },
     mapUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2395.807860595995!2d104.72401192738623!3d-2.9929630753803074!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e3b758b7562ac19%3A0xf5f8dbb0c9de98df!2sUniversitas%20Palembang!5e0!3m2!1sid!2sid!4v1771689222289!5m2!1sid!2sid",
 };
@@ -215,8 +215,8 @@ export const profileData: ProfileData = {
     ],
     akreditasi: {
         grade: "B",
-        sk: "No. 123/SK/BAN-PT/Akred/S/I/2024",
-        validUntil: "2029-01-01",
+        sk: "492/SK/BAN-PT/Ak.Ppj/S/II/2023",
+        validUntil: "2028-02-01",
         description: "Terakreditasi B oleh Badan Akreditasi Nasional Perguruan Tinggi.",
     },
     tujuan: "Menghasilkan lulusan ilmu hukum yang memiliki kemampuan akademik,profesional, dan berdaya saing serta mampu menerapkan teori dan praktik hukum di bidang pemerintahan maupun swasta. Lulusan juga diharapkan memiliki sikap dan perilaku yang baik serta mampu mengabdikan ilmunya untuk pengembangan ilmu hukum, profesi hukum, dan kesejahteraan masyarakat. Selain itu, menghasilkan penelitian hukum yang berkualitas dengan melibatkan mahasiswa guna mendukung penegakan hukum dan memberikan manfaat bagi masyarakat melalui kegiatan pengabdian.",

@@ -147,12 +147,12 @@ export default function Footer({
                             </div>
                             <ul className="space-y-4 lg:flex lg:flex-col lg:items-end">
                                 <li>
-                                    <Link href="/akreditasi" className="text-sm text-muted-foreground hover:text-foreground transition-colors font-medium">
+                                    <Link href="#" className="text-sm text-muted-foreground hover:text-foreground transition-colors font-medium">
                                         Akreditasi BAN-PT
                                     </Link>
                                 </li>
                                 <li>
-                                    <Link href="/admin/login" className="text-sm text-muted-foreground hover:text-foreground transition-colors font-medium">
+                                    <Link href="#" className="text-sm text-muted-foreground hover:text-foreground transition-colors font-medium">
                                         Portal Akademik
                                     </Link>
                                 </li>
