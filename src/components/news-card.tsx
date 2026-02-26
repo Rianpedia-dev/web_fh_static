@@ -39,7 +39,7 @@ export function NewsCard({ news, delay = 0 }: NewsCardProps) {
                 {/* Image Container */}
                 <div className="relative aspect-[4/3] overflow-hidden">
                     <Image
-                        src={news.imageUrl || "/images/backround_profil.png"}
+                        src={news.imageUrl || "/bg2.png"}
                         alt={news.title}
                         fill
                         className="object-cover group-hover:scale-110 transition-transform duration-700"
@@ -89,7 +89,7 @@ export function NewsCard({ news, delay = 0 }: NewsCardProps) {
                 <div className="flex-grow overflow-y-auto custom-scrollbar">
                     <div className="relative aspect-video w-full">
                         <Image
-                            src={news.imageUrl || "/images/backround_profil.png"}
+                            src={news.imageUrl || "/bg2.png"}
                             alt={news.title}
                             fill
                             className="object-cover"

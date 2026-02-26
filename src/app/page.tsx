@@ -71,7 +71,7 @@ export default function Home() {
   }));
 
   return (
-    <div className="min-h-screen bg-transparent overflow-hidden relative">
+    <div className="min-h-screen bg-background overflow-hidden relative" suppressHydrationWarning>
       <div className="relative z-10">
         {/* Hero Section */}
         <div className="relative pt-8 pb-6 md:pt-20 md:pb-32 overflow-hidden">
