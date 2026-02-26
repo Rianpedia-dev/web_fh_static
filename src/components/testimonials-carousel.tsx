@@ -21,7 +21,7 @@ interface TestimonialsCarouselProps {
 }
 
 export function TestimonialsCarousel({ testimonials }: TestimonialsCarouselProps) {
-    const [emblaRef] = useEmblaCarousel({ loop: true }, [Autoplay({ delay: 5000 })]);
+    const [emblaRef] = useEmblaCarousel({ loop: true }, [Autoplay({ delay: 3000 })]);
 
     return (
         <div className="overflow-hidden" ref={emblaRef}>

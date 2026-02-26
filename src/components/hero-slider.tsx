@@ -25,7 +25,7 @@ interface HeroSliderProps {
 
 export default function HeroSlider({ slides, universityName }: HeroSliderProps) {
     const [emblaRef, emblaApi] = useEmblaCarousel({ loop: true }, [
-        Autoplay({ delay: 5000, stopOnInteraction: false }),
+        Autoplay({ delay: 3000, stopOnInteraction: false }),
     ]);
 
     const scrollPrev = React.useCallback(() => {
