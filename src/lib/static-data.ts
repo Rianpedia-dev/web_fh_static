@@ -257,15 +257,6 @@ export const contactInfo: ContactInfo = {
 
 export const announcements: Announcement[] = [
     {
-        id: 1,
-        title: "Kuliah Umum: Tantangan Hukum Cyber di Era AI.",
-        excerpt: "Isi lengkap pengumuman tentang tantangan hukum cyber di era artificial intelligence...ttr67r7t7tiuhiohoi",
-        content: "Isi lengkap pengumuman tentang tantangan hukum cyber di era artificial intelligence...ttr67r7t7tiuhiohoi",
-        date: "25 Feb 2026",
-        category: "Akademik",
-        imageUrl: "/uploads/news/1771751470657-Screenshot-2026-02-22-160501.png",
-    },
-    {
         id: 2,
         title: "Pembukaan Pendaftaran Mahasiswa Baru Gelombang 1",
         excerpt: "PMB FH UNPAL tahun akademik 2026/2027 telah resmi dibuka. Daftar sekarang untuk masa depan gemilang.",
@@ -286,8 +277,8 @@ export const announcements: Announcement[] = [
     {
         id: 4,
         title: "Webinar Nasional Hukum Asuransi",
-        excerpt: "Isi lengkap pengumuman tentang tantangan hukum cyber di era artificial intelligence...ttr67r7t7tiuhiohoi",
-        content: "Isi lengkap pengumuman tentang tantangan hukum cyber di era artificial intelligence...ttr67r7t7tiuhiohoi",
+        excerpt: "",
+        content: "",
         date: "25 Feb 2026",
         category: "Akademik",
         imageUrl: "/uploads/news/Screenshot 2026-02-26 054835.png",
