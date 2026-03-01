@@ -270,7 +270,7 @@ export const announcements: Announcement[] = [
         content: "Rincian prosedur pendaftaran, persyaratan, dan jadwal seleksi PMB gelombang pertama...",
         date: "20 Feb 2026",
         category: "PMB",
-        imageUrl: "/uploads/news/1771743096579-backround-penerimaan.png",
+        imageUrl: "/uploads/news/pmb.png",
     },
     {
         id: 5,
