@@ -180,6 +180,13 @@ export interface PmbData {
     team: PmbTeamMember[];
 }
 
+export interface Journal {
+    id: number;
+    title: string;
+    imageUrl: string;
+    link: string;
+}
+
 // ════════════════════════════════════════════════════════════
 // 1. SITE CONFIG (Konfigurasi Situs)
 // ════════════════════════════════════════════════════════════
@@ -190,7 +197,7 @@ export const siteConfig: SiteConfig = {
     shortName: "FH UNPAL",
     description: "\"Menjunjung tinggi keadilan, menegakkan hukum, dan membentuk sarjana hukum yang profesional, berintegritas, serta bermanfaat bagi masyarakat.\"",
     address: "Jl. Dharmapala No.31.A, Bukit Baru, Kec. Ilir Bar. I, Kota Palembang, Sumatera Selatan 30139",
-    phone: "(0711) 441735",
+    phone: "(0711) 440650",
     email: "unpalfakultashukum@gmail.com",
     socialMedia: {
         instagram: "https://www.instagram.com/hukum_unpal",
@@ -397,8 +404,8 @@ export const lecturers: Lecturer[] = [
 // ════════════════════════════════════════════════════════════
 
 export const staffMembers: Staff[] = [
-    { id: 1, name: "M. Yunus, S.H.", position: "Kepala Tata Usaha", imageUrl: "/uploads/staff/yunus.jpg" },
-    { id: 2, name: "Siska, B.A.", position: "Admin Akademik", imageUrl: "/uploads/staff/siska.jpg" },
+    { id: 1, name: "", position: "Kepala Tata Usaha", imageUrl: "/uploads/staff/yunus.jpg" },
+    { id: 2, name: "", position: "Admin Akademik", imageUrl: "/uploads/staff/siska.jpg" },
 ];
 
 // ════════════════════════════════════════════════════════════
@@ -665,6 +672,25 @@ export const campusAccess = [
 // ════════════════════════════════════════════════════════════
 
 export const visitorCount = 405;
+
+// ════════════════════════════════════════════════════════════
+// 16. JURNAL
+// ════════════════════════════════════════════════════════════
+
+export const journals: Journal[] = [
+    {
+        id: 1,
+        title: "Editorial Office : Unpal Legal Insight (ULI)",
+        imageUrl: "/uploads/jurnal/jurnal1.jpeg",
+        link: "https://ejournal.fhunpal.id/index.php/uli",
+    },
+    {
+        id: 2,
+        title: "Editorial Office : Dedikasi Unpal",
+        imageUrl: "/uploads/jurnal/jurnal2.jpeg",
+        link: "https://ejournal.fhunpal.id/index.php/DU",
+    },
+];
 
 // ════════════════════════════════════════════════════════════
 // HELPER FUNCTIONS (Meniru interface lama agar transisi mudah)
