@@ -67,7 +67,7 @@ export default function CivitasContent({
                                 <div className="flex justify-center mb-5">
                                     <Dialog>
                                         <DialogTrigger asChild>
-                                            <div className="relative w-full aspect-square md:w-44 md:h-44 rounded-lg md:rounded-2xl overflow-hidden bg-muted border border-border cursor-zoom-in">
+                                            <div className="relative w-full aspect-[2/3] md:w-44 md:aspect-[2/3] rounded-lg md:rounded-2xl overflow-hidden bg-muted border border-border cursor-zoom-in">
                                                 {dosen.imageUrl ? (
                                                     <Image
                                                         src={dosen.imageUrl}
