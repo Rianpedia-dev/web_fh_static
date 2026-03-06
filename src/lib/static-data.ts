@@ -301,7 +301,7 @@ export const lecturers: Lecturer[] = [
         id: 1,
         name: "Dr. Ardiana Hidayah, S.H., M.H.",
         nidn: "0217098302",
-        position: "Dekan / Lektor Kepala",
+        position: "Dekan",
         specialization: "Hukum Perdata/Hukum Bisnis",
         education: "S3 Ilmu Hukum- Universitas Sriwijaya",
         email: "ardianahidayah@unpal.ac.id",
