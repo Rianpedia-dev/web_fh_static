@@ -695,7 +695,7 @@ export const campusAccess = [
 // 15. STATISTIK PENGUNJUNG (Statis)
 // ════════════════════════════════════════════════════════════
 
-export const visitorCount = 405;
+export const visitorCount = 627;
 
 // ════════════════════════════════════════════════════════════
 // 16. JURNAL
