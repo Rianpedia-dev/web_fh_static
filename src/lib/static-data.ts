@@ -275,8 +275,8 @@ export const announcements: Announcement[] = [
     {
         id: 5,
         title: "Kerjasama .",
-        excerpt: "Penadatanganan Perjanjian Kerjasama antara Pengadilan Negeri Palembang Kelas 1 A Khusus dengan Fakultas Hukum Universitas Palembangn Jika Anda masih melihat pesan tersebut di konsol pengembang (terutama saat menggunakan extension mode gelap), Anda bisa mencoba membukanya di Incognito Mode atau menonaktifkan extension untuk memastikan semuanya berjalan normal. Secara fungsional, error ini biasanya tidak merusak aplikasi, namun perbaikan di atas akan meminimalisirnya.",
-        content: "Penadatanganan Perjanjian Kerjasama antara Pengadilan Negeri Palembang Kelas 1 A Khusus dengan Fakultas Hukum Universitas Palembangn Jika Anda masih melihat pesan tersebut di konsol pengembang (terutama saat menggunakan extension mode gelap), Anda bisa mencoba membukanya di Incognito Mode atau menonaktifkan extension untuk memastikan semuanya berjalan normal. Secara fungsional, error ini biasanya tidak merusak aplikasi, namun perbaikan di atas akan meminimalisirnya.",
+        excerpt: "",
+        content: "",
         date: "22 feb 2026",
         category: "Berita",
         imageUrl: "/uploads/news/1771751838430-Screenshot-2026-02-22-161517.png",
