@@ -314,7 +314,7 @@ export const lecturers: Lecturer[] = [
         position: "Wakil Dekan I",
         specialization: "Hukum Perdata/Hukum Bisnis",
         education: "S2 Ilmu Hukum- Universitas Sriwijaya",
-        email: "farrahrizkyamelia@unpal.ac.id",
+        email: "kikymirza@unpal.ac.id",
         imageUrl: "/uploads/dosen/Farrah Rizky Amelia, S.H., M.H..jpg",
     },
     {
@@ -668,7 +668,7 @@ export const pmbData: PmbData = {
     },
     team: [
         { name: "Dr. Ardiana Hidayah, S.H., M.H.", role: "Dekan Fakultas Hukum", phone: "08127872614", email: "unpalfakultashukum@gmail.com", image: "/uploads/tim-pmb/1.jpg" },
-        { name: "Farrah Rizky Amelia, S.H., M.H.", role: "Wakil Dekan 1", phone: "082179737318", email: "Kikymirza@unpal.ac.id", image: "/uploads/tim-pmb/2.jpg" },
+        { name: "Farrah Rizky Amelia, S.H., M.H.", role: "Wakil Dekan 1", phone: "081928041267", email: "kikymirza@unpal.ac.id", image: "/uploads/tim-pmb/2.jpg" },
         { name: "H.Akhmad Dani, S.H., M.H.", role: "Wakil Dekan 2", phone: "087897165861", email: "akhmaddani@unpal.ac.id", image: "/uploads/tim-pmb/3.jpg" },
     ],
 };
